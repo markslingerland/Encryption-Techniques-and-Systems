@@ -1,1 +1,4 @@
 # Encryption-Techniques-and-Systems
+The course contains the commonly used encryption algorithms with design and implementation of encryption systems. In addition, encryption use cases suitable for certain systems are practiced. Encryption systems are programmed during the course. Documentation of implemented solutions is created.
+
+The student masters both the principles and practice of cryptography based network security. The student masters the most essential areas in data encryption: concepts, theory, the used technical implementations and systems. In addition, the student masters the principles of encryption techniques and is able to design and implement an encryption system based on requirement specification considering the existing restrictions of chosen techniques. The student is also capable of producing documentation of the implemented solution.
