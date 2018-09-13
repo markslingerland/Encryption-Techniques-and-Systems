@@ -9,7 +9,7 @@ def xor(data1, data2):
     result = dec1 ^ dec2
     print(hex(result)[2:])
 
-# xor(string1, string2)
+xor(string1, string2)
 
 # http://www.data-compression.com/english.html
 letterFrequencies = [{   "letter" : "a", 
